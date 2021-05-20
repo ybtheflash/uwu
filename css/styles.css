@@ -16,7 +16,7 @@ h1 {
 }
 
 .main {
-  background-image: url("file:///F:/My Web Development/Project Alpha - Site/imgs/homebg_img.jpg");
+  background-image: url("https://github.com/ybtheflash/uwu/blob/main/imgs/homebg_img.jpg?raw=true");
 }
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
